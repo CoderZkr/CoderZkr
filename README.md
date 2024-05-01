@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="http://coderzkr.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&color=indigo&center=true&width=670&lines=React+Developer%7C+Junior+Software+Engineer;Database+Modeler%7C+Senior+Tech;Learning+Mobile+App+Development%7C+React+Native" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&color=indigo&center=true&width=670&lines=React+Developer+%7C+Junior+Software+Engineer;Database+Modeler+%7C+Senior+Tech;Learning+Mobile+App+Development+%7C+React+Native" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CoderZkr&label=Profile%20views&color=0e75b6&style=flat" alt="CoderZkr" />
